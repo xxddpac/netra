@@ -1,6 +1,6 @@
 module netra
 
-go 1.25.0
+go 1.26.0
 
 require (
 	github.com/cilium/ebpf v0.22.0
@@ -9,7 +9,7 @@ require (
 	github.com/modelcontextprotocol/go-sdk v1.7.0
 	github.com/oschwald/geoip2-golang v1.13.0
 	github.com/segmentio/kafka-go v0.4.51
-	golang.org/x/crypto v0.55.0
+	golang.org/x/crypto v0.56.0
 	golang.org/x/sys v0.47.0
 	golang.org/x/text v0.41.0
 	modernc.org/sqlite v1.54.0
