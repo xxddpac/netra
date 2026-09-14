@@ -6,7 +6,7 @@ require (
 	github.com/cilium/ebpf v0.22.0
 	github.com/golang-jwt/jwt/v5 v5.3.1
 	github.com/marcboeker/go-duckdb v1.8.5
-	github.com/modelcontextprotocol/go-sdk v1.7.0
+	github.com/modelcontextprotocol/go-sdk v1.8.0
 	github.com/oschwald/geoip2-golang v1.13.0
 	github.com/segmentio/kafka-go v0.4.51
 	golang.org/x/crypto v0.55.0
